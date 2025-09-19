@@ -75,8 +75,12 @@ Scripts for the analysis of foreward projections (2024-2100)
 
 [**Analysis_drivers**](https://github.com/ymbozec/GBR_futures/Analysis_drivers)
 
+
 Scripts for running the statistical models of drivers
 
 [**Validation**](https://github.com/ymbozec/GBR_futures/Validation)
 
 Scripts for the validation of the hindcast coral cover reconstruction and the predictions of past bleaching
+
+## Citation
+Bozec, Y.-M., A. A. Adam, B. Arellano-Nava, A. K. Cresswell, V. Haller-Bull, T. Iwanaga, L. Lachs, S. A. Matthews, J. K. McWhorter, K. R. N. Anthony, S. A. Condie, P. R. Halloran, J. C. Ortiz, C. Riginos, and P. J. Mumby. 2025. A rapidly closing window for coral persistence under global warming. bioRxiv. https://www.biorxiv.org/content/10.1101/2025.01.23.634487v1.full
